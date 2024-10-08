@@ -4,7 +4,7 @@
 
 # ABC: System for Sequential Logic Synthesis and Formal Verification
 
-ABC is always changing but the current snapshot is believed to be stable.
+ABC is always changing bu the current snapshot is believed to be stable.
 
 ## ABC fork with new features
 
